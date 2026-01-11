@@ -612,6 +612,12 @@ footer .spons img {
         font-size: 25px;
     }
 
+    footer .email .input a:hover {
+        color: var(--input-color);
+        background-color: var(--first-color);
+        border-color: var(--input-color);
+    }
+
     footer .email .input input {
         margin-bottom: 30px;
     }
